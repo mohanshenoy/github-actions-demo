@@ -27,10 +27,10 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo MohanShenoy ( you are running one line script)!
+        run: echo MohanShenoy1
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo echo MohanShenoy ( you are running multi line script)!1
-          echo echo MohanShenoy ( you are running multi line script)!3
+          echo echo MohanShenoy2
+          echo echo MohanShenoy3
